@@ -13,3 +13,29 @@
  *= require_tree .
  *= require_self
  */
+
+ h1 {
+  color: blueviolet;
+  font-family: 'Courier New', Courier, monospace;
+ }
+
+ body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+ .answer {
+  background-color: blanchedalmond;
+ }
+
+ .question {
+  background-color: lightgrey;
+ }
+
+ a {
+  text-decoration: none;
+  color: white;
+ }
+
+ a:hover {
+  color: red;
+ }
